@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.26480275.css",
+    "main.js": "/static/js/main.5c086442.js",
+    "static/js/453.b03e3c98.chunk.js": "/static/js/453.b03e3c98.chunk.js",
+    "static/media/prerana-footer.JPG": "/static/media/prerana-footer.95d379c947e4e7939710.JPG",
+    "static/media/about-us.jpg": "/static/media/about-us.fe078b14c9de93d78c37.jpg",
+    "static/media/prerana-mission.jpg": "/static/media/prerana-mission.5e8dde2b46be0ee53344.jpg",
+    "static/media/vision.jpg": "/static/media/vision.1c7d4d3e87ae99ac82c1.jpg",
+    "static/media/hero-bg.jpeg": "/static/media/hero-bg.f9da59e61a8cd0e8e339.jpeg",
+    "static/media/prerana-logo.png": "/static/media/prerana-logo.1b55f7c6643e6ed176b3.png",
+    "static/media/india-bg.jpg": "/static/media/india-bg.5660452059463dc29566.jpg",
+    "static/media/instagram.png": "/static/media/instagram.3ee9e940316065c01aac.png",
+    "static/media/address-img.jpg": "/static/media/address-img.4865590aeee4064cf1e0.jpg",
+    "static/media/qr-code.jpg": "/static/media/qr-code.1a5d3da2a2ef353ff824.jpg",
+    "static/media/twitter.png": "/static/media/twitter.5eef0573dfca76477f7a.png",
+    "static/media/facebook.png": "/static/media/facebook.7478be85b6ddaccd4bdf.png",
+    "index.html": "/index.html",
+    "main.26480275.css.map": "/static/css/main.26480275.css.map",
+    "main.5c086442.js.map": "/static/js/main.5c086442.js.map",
+    "453.b03e3c98.chunk.js.map": "/static/js/453.b03e3c98.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.26480275.css",
+    "static/js/main.5c086442.js"
+  ]
+}
